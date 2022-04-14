@@ -14,13 +14,13 @@
  - [ChapmenGaming](https://robloxianadventures.com/profiles/employees/ChapmenGaming/)
  - L_ogii
  
- ## Department Directors:
+## Department Directors:
  - SilentSeif
  - AcerAstro
  - noodleflames 
  - UnluckyTrial
  
- ## Assistant Dept. Directors:
+## Assistant Dept. Directors:
  - kakabakasmaka
  - willtokill
  - Akku2
