@@ -1,4 +1,7 @@
-const categories = { fiction: [{ url: `/jekyll-theme-serial-programmer/posts/the-purpose-of-education/`, date: `12 Dec 1948`, title: `The Purpose of Education`},],jekyll: [{ url: `/jekyll-theme-serial-programmer/posts/jekyll-markdown/`, date: `04 Nov 2021`, title: `Jekyll Markdown`},{ url: `/jekyll-theme-serial-programmer/posts/the-purpose-of-education/`, date: `12 Dec 1948`, title: `The Purpose of Education`},], }
+---
+---
+
+const categories = { {% for category in site.categories %}{% capture category_name %}{{ category | first }}{% endcapture %}{{ category_name }}: [{% for post in site.categories[category_name] %}{ url: `{{ site.baseurl }}{{ post.url }}`, date: `{{post.date | date_to_string}}`, title: `{{post.title}}`},{% endfor %}],{% endfor %} }
 
 window.onload = function () {
   document.querySelectorAll(".category").forEach((category) => {
