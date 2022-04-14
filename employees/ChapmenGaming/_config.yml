@@ -1,7 +1,7 @@
 title: ChapmenGaming
 markdown: kramdown
 url: ""
-baseurl: "profiles/employees/ChapmenGaming"
+baseurl: "/profiles/employees/ChapmenGaming"
 
 # for atom feed
 author:
