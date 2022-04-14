@@ -11,7 +11,7 @@
 - thejanator
 
 ## Department OVerseer:
- - Chapmen Gaming
+ - [ChapmenGaming](https://robloxianadventures.com/profiles/employees/ChapmenGaming/)
  - L_ogii
  
  ## Department Directors:
