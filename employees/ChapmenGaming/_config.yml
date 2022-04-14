@@ -3,6 +3,7 @@ markdown: kramdown
 url: ""
 baseurl: "/profiles/employees/ChapmenGaming"
 
+
 # for atom feed
 author:
   name: ChapmenGaming
