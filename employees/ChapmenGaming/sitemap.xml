@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/jekyll-theme-serial-programmer/posts/the-purpose-of-education/</loc>
-<lastmod>1948-12-12T05:18:00-05:00</lastmod>
+<loc>/profiles/employees/ChapmenGaming/posts/My-RA-Journey/</loc>
+<lastmod>2022-04-14T06:31:33-04:00</lastmod>
 </url>
 <url>
-<loc>/jekyll-theme-serial-programmer/posts/jekyll-markdown/</loc>
-<lastmod>2021-11-04T00:00:00-04:00</lastmod>
+<loc>/profiles/employees/ChapmenGaming/posts/Rank-Order/</loc>
+<lastmod>2022-04-15T06:18:00-04:00</lastmod>
 </url>
 <url>
-<loc>/jekyll-theme-serial-programmer/</loc>
+<loc>/profiles/employees/ChapmenGaming/posts/My-RATA-Journey/</loc>
+<lastmod>2022-04-15T06:32:35-04:00</lastmod>
+</url>
+<url>
+<loc>/profiles/employees/ChapmenGaming/</loc>
 </url>
 </urlset>

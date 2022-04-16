@@ -1,1 +1,1 @@
-Sitemap: /jekyll-theme-serial-programmer/sitemap.xml
+Sitemap: /profiles/employees/ChapmenGaming/sitemap.xml
